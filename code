@@ -1,0 +1,78 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amssymb}
+\usepackage[portuguese]{babel}
+
+\title{Introdução ao Libertarianismo}
+\author{Renan Andrade}
+\date{Dezembro de 2018}
+
+\begin{document}
+
+\maketitle
+
+\section{Motivação}
+
+\section{Breve contexto histórico}
+Enquanto termo de filosofia ética, o \textbf{libertarianismo} surgiu no início do século XX para se opor ao uso do \textit{liberal} americano, apropriado no New Deal, por aqueles que de fato se identificavam com o liberalismo clássico (é por isso que indivíduos alinhados à esquerda nos Estados Unidos, hoje em dia, chamam-se \textit{liberals}). Foi o polimata Murray Rothbard (1926-95), contanto, que popularizou o termo. Este é reconhecido como o fundador do libertarianismo contemporâneo.
+
+\section{Objetivo}
+O objetivo do libertarianismo é ser uma filosofia ética construída logicamente i.e. que não possua contradições internas. Para tanto, como será discutido, o libertarianismo \textit{precisa} ser uma filosofia extremamente fraca. Ela se propõe não como uma condição suficiente, mas como uma condição \textit{necessária} para a construção de uma sociedade ética: se não temos precisão naquilo que estamos dizendo, nossa filosofia é vítima de qualquer ataque que aponte suas contradições. Se realmente queremos defender direitos de ferro, como, por exemplo, o direito à vida, gostaríamos de ter uma base suficientemente forte que refute qualquer argumento mal feito contra ele.
+
+É exatamente por isso que o libertarianismo, como explorado na seção de \textit{Resultados absurdos}, não exige que uma sociedade ética seja anarco-capitalista. Como veremos, o libertarianismo é calcado em um princípio de \textit{consentimento}, algo que a maioria de nós gostaria de ser \textit{absoluto} em uma sociedade qualquer.
+
+\section{PNA: o núcleo duro}
+O \textbf{PNA} é o \textit{axioma} do libertarianismo: "a agressão à propriedade é anti-ética". Como qualquer axioma, o PNA se desdobra em uma infinidade de teoremas. Comecemos com uma definição precisa dos termos usados nele.
+
+\subsection{Propriedade}
+A \textbf{propriedade} sobre qualquer coisa só pode ser adquirida de duas formas, por serem logicamente disjuntivas: \vspace{2mm}
+
+\par i. Apropriação de um item de um agente \textit{amoral}: a natureza (que, por definição, é o \textit{único} agente amoral. O motivo de tal unicidade será explorado posteriormente). Isto é, a ela não se pode estender qualquer noção de moralidade. Discutiremos essa noção no subtópico de 4.2. Logo, se não existe propriedade sobre a Lua, é ético que eu me aproprie livremente de sua poeira. A Lua não é capaz de firmar propriedade sobre si mesma.
+\par ii. Apropriação de um item de um agente não amoral. É exigida aqui a noção de \textbf{troca}: os recursos são escassos, a primeira lei da Economia. Em um mundo em que estados-nacionais, em seu conjunto, clamam propriedade sobre todo o planeta Terra, essa é a forma de apropriação de um item qualquer mais natural. Mas na troca, não intercambiamos os itens em si (o exemplo mais óbvio é o aluguel), mas a propriedade sobre ele. Como fazemos isso será explorado no subtópico em seguida.
+
+Um exemplo essencial de (i) que será sempre válido é a \textbf{autopropriedade}, uma subclasse do conceito de propriedade. Como cada indivíduo é o único capaz de fazer uso voluntário de seu próprio corpo, é evidente que aquele tem propriedade legítima sobre seu próprio corpo.
+
+\subsection{Contratos}
+Se um agente $A$ tem propriedade sobre um recurso $R$ qualquer, um outro agente $B$ só pode se apropriar de $R$, respeitado o PNA, via troca. Firma-se portanto um \textbf{contrato}: $A$ contrata com $B$ pelo uso de $R$ sob condições bem especificadas. [1]
+
+É por isso que o libertarianismo, apesar da etimologia, é uma filosofia sobre a propriedade: $A$ pode ter propriedade sobre um cinema (tal que $R \triangleq cinema$), mas deveria $B$ ter liberdade irrestrita, tal que possa gritar durante um filme? É evidente que não [2]. A propriedade, e não a liberdade, é o único princípio universalizável para todos os indivíduos, a independer de tempo ou espaço.
+
+\subsubsection{Agressão}
+Uma \textbf{agressão} é qualquer ação que viole um contrato estabelecido por agentes quaisquer. Exemplos óbvios incluem assassinato, roubo, estupro etc. A propriedade adquirida por meios não agressivos é denominada \textbf{legítima}.
+
+\subsection{O absurdo do juspositivismo}
+O \textit{juspositivismo} prediz que direitos só existem perante a presença do Estado. Mas o Estado é precisamente \textit{o} órgão que sobrevive a partir da violação do PNA, e é importante entender que qualquer corpo institucional que assim o faça, na tradição libertária, será definido como Estado. Este só consegue agir em sociedade dada a apropriação coercitiva da propriedade alheia. Se o PNA é válido, o Estado é anti-ético. Se o Estado é anti-ético, o juspositivismo é um absurdo lógico. Perceba que o libertarianismo, ao pregar a abolição do Estado, prega na realidade a abolição de toda e qualquer instituição que fira o PNA alheio. Uma vez que se aceite como verdadeira a premissa de que a agressão é anti-ética, essa é uma das consequências últimas.
+
+\subsection{Deontologia e Governança}
+O libertarianismo advoca \textit{tão somente} pelo PNA. Fica então evidente que, ao contrário da maioria das filosofias morais, o libertarianismo não propõe nenhum manual sobre como uma sociedade libertária deve existir. É uma crítica comum e infundada que libertários creem que pessoas conseguiriam conviver entre si sem ao menos algum órgão regulatório de suas vidas. A maioria de nós entende que deva existir algum tipo de \textbf{governança}, mas que tal governança seja um corpo institucional que contrate com os indivíduos de modo a respeitar seu PNA. A governança libertária é, de certa forma, Estado legitimado pelo contrato social dos liberais clássicos [3].
+
+Mas isso é uma posição que libertários tomam como libertários, não segundo o PNA. Retornemos a ele: "a agressão à propriedade é anti-ética". Em momento \textit{algum} tal proposição recomenda a criação de uma governança para o funcionamento mínimo de uma sociedade. Fica aqui, mais uma vez, a evidência de que o axioma é fraco, no sentido de não querer ditar, detalhadamente, como deve ser o comportamento da sociedade. Como já argumentado, veremos que uma sociedade libertária em momento algum precisa viver sobre anarquia estrita. Na realidade, \textbf{o libertarianismo permite a existência de sociedades comunistas}. Exploraremos isso mais tarde.
+
+Em suma, façamos a distinção de uma filosofia consequencialista e de uma deontológica: a consequencialista está preocupada com o que acontece, na prática, com sua aplicação. A deontológica não: as premissas morais devem ser absolutas, a independer de suas consequências. É óbvio que o libertarianismo é uma filosofia deontológica por se calcar no PNA. Mas por que isso é interessante? Precisamente pela possibilidade de derivar resultados absolutos: pouco importa se o estupro aumenta a felicidade geral da sociedade (consequência). O estupro é anti-ético por violar o princípio deontológico libertário e, portanto, não pode ser defendido de maneira alguma.
+
+\subsubsection{Ética e Moral}
+Se o PNA não nos indica como devemos nos organizar em sociedade, o que o fará? 
+
+É razoavelmente convencionado na tradição libertária definir proposições derivadas do PNA como \textbf{éticas}, isto é, objetivas. Proposições que derivam do entendimento pessoal do indivíduo, isto é, cuja verdade é dependente do falante, são denominadas \textbf{morais}. Isso será uma distinção importante na seção de \textit{Resultados absurdos}: como já discutido previamente, é ético uma sociedade se e somente se esta respeite o PNA. Seria moral, entretanto, que um libertário advogasse por uma sociedade comunista.
+
+\subsection{Ética argumentativa: é ilógico não ser libertário?}
+
+\section{Resultados absurdos}
+
+\section{Domínio do PNA}
+
+\section{Conclusões}
+
+\section{Apêndice I: Um pouco mais de contexto histórico}
+
+Por que o Gordinho (Tarcísio Motta, PSOL) se identifica como libertário, mesmo defendendo posições que claramente ferem o PNA?
+
+\section{Apêndice II: Relação com a Escola Austríaca}
+Não existe nenhuma relação entre a Escola Austríaca da Ciência Econômica e o Libertarianismo. É certo que muitos indivíduos advoguem por ambos (o autor deste texto não é um deles), mas deveria ser claro como água que a Escola Austríaca produz teorias \textit{científicas} (ou, ao menos, afirma produzir), enquanto o libertarianismo produz teorias \textit{éticas/morais}. A distinção, respectivamente, é do que faríamos entre Economia Positiva e Economia Normativa.
+
+\section{Apêndice III: Lógica}
+É importante perceber que o libertarianismo está fundado na lógica clássica. Mises já afirmara que é inconcebível à mente humana perceber algo além dela. Mesmo assim, para qualquer um com o mínimo de treinamento em Lógica, sabemos que existem \textit{lógicas}, sistemas regrados que ditam a validade de proposições. A lógica clássica é por óbvio que a mais bem se aplica a uma filosofia moral (tente imaginar o desastre de uma calcada em lógica fuzzy, por exemplo: "o estupro é uma ação com pertencimento de 0.3 ao conjunto 'ações éticas', e 0.7 ao 'ações não éticas'". Em uma sociedade plenamente ética, é inconcebível abrir mão do terceiro excluído). 
+
+\section{Referências bibliográficas}
+
+\end{document}
